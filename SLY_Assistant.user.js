@@ -22,7 +22,7 @@
 	let customReadRPCs = [];
 
 	//Used for pushing transactions to solana chain
-	let customWriteRPCs = [];
+	let customWriteRPCs = ['https://blissful-long-bush.solana-mainnet.quiknode.pro/ef8c93c33d3c948bb8062f34540eb6b608b4ceae/',];
 
     let saRPCs = [
         'https://twilight-autumn-diagram.solana-mainnet.quiknode.pro/4fc53d638efd1cc0f80764bc457944bb325d1ff1', //Quicknode
